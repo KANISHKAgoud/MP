@@ -1,7 +1,6 @@
 # MP
 https://kanishkagoud.github.io/MP/
 
-
 MP1 OUTPUT:-  ![MP1](https://github.com/KANISHKAgoud/MP/assets/152781104/6727975d-dec2-4cd5-a89e-3b2c5c0f501a)
 
 
